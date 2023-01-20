@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var aa = 1
+    var bb = 2
+    var cc = 3
 
     override func viewDidLoad() {
         super.viewDidLoad()
